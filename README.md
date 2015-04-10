@@ -1,2 +1,2 @@
 # Crux
-The Crux pipeline refines and validates RNA-seq based annotation of novel transcripts and exon-exon junctions through a recursive procedure
+The Crux pipeline uses a recursive procedure to refine and evaluate annotation of novel transcripts and exon-exon junstions detected from RNA-seq data.
